@@ -15,6 +15,10 @@
     "./bin/jest": "./bin/jest.js"
   },
   "dependencies": {
+    "@clinic/clinic-common": "^7.0.0",
+    "@clinic/doctor": "^11.0.0",
+    "@clinic/node-trace-log-join": "^2.0.0",
+    "@clinic/trace-events-parser": "^2.0.0",
     "@jest/core": "workspace:*",
     "@jest/test-result": "workspace:*",
     "@jest/types": "workspace:*",
