@@ -1,4 +1,6 @@
 from yarnpkg/node-yarn
 
-add .
+WORKDIR /opt/jest/
+add . .
+
 run yarn 
